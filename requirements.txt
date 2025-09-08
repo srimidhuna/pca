@@ -8,3 +8,5 @@ plotly
 ucimlrepo
 gradio
 imblearn
+transformers
+torch
