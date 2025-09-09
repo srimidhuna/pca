@@ -79,11 +79,4 @@ Class Probabilities – Probabilities for each possible quality class (if availa
 
 Deployment
 
-This app can be deployed locally or on Hugging Face Spaces for public access.
-
-Example
-
-After entering the values for the 10 physicochemical features, the app will display the predicted quality and probabilities:
-
-Predicted Wine Quality: 7
-Class Probabilities: {'3': 0.0, '4': 0.0, '5': 0.15, '6': 0.5, '7': 0.35, '8': 0.0, '9': 0.0}
+APP LINK : https://huggingface.co/spaces/srimidhuna/wine_quality
